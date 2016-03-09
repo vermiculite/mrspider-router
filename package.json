@@ -1,0 +1,32 @@
+{
+  "name": "mrspider-router",
+  "version": "0.0.1",
+  "description": "router / multiplexer for mrspider",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermiculite/mrspider-router.git"
+  },
+  "keywords": [
+    "mrspider",
+    "crawler",
+    "router"
+  ],
+  "author": "seanowenhayes@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vermiculite/mrspider-router/issues"
+  },
+  "homepage": "https://github.com/vermiculite/mrspider-router#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "sinon": "^1.17.3"
+  }
+}
